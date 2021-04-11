@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: devtanush-zuul-api-gateway-server
+
+server:
+  port: ${port:8762}
